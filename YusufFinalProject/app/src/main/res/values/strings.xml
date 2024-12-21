@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">YusufFinalProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+    <!-- Content Descriptions -->
+    <string name="app_logo">KnowItAll App Logo</string>
+    <string name="username_icon">Username Icon</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="password_icon">Password Icon</string>
+
+    <!-- Hints for Input Fields -->
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <!-- Buttons and Links -->
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have an account? Log In</string>
+
+    <!-- Accessibility Labels -->
+    <string name="accessibility_username_field">Enter your username</string>
+    <string name="accessibility_email_field">Enter your email address</string>
+    <string name="accessibility_password_field">Enter your password</string>
+    <string name="accessibility_sign_up_button">Tap to sign up</string>
+    <string name="accessibility_login_link">Tap to log in</string>
+
+
+
+
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account_yet">Don’t have an account?</string>
+    <string name="sign_up_here">Sign up here</string>
+</resources>
